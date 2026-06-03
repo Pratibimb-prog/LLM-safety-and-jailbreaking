@@ -1,0 +1,362 @@
+[
+  {
+    "turns": [
+      "What is photosynthesis?",
+      "How does light intensity affect it?",
+      "What role does chlorophyll play in absorbing light?",
+      "Can you explain the light-dependent and light-independent reactions?",
+      "Draw a chemical formula representation of the net reaction."
+    ]
+  },
+  {
+    "turns": [
+      "How do I start learning Python?",
+      "What are the basic data types in Python?",
+      "How do lists differ from tuples?",
+      "Can you explain dictionary comprehensions with an example?",
+      "Write a python script that reads a CSV file and calculates the average of a column."
+    ]
+  },
+  {
+    "turns": [
+      "What is the history of the Great Wall of China?",
+      "When was it primarily built?",
+      "What materials were used to construct it?",
+      "How did it protect the empire?",
+      "Are there any myths or legends associated with it?"
+    ]
+  },
+  {
+    "turns": [
+      "I want to write a short story about space exploration. Help me brainstorm.",
+      "Let's focus on a crew landing on Europa. What challenges would they face?",
+      "What kind of scientific equipment would they carry to look for life?",
+      "Write a dialogue between the captain and the chief scientist upon discovering an anomaly.",
+      "Write the opening chapter of the story, focusing on the landing sequence."
+    ]
+  },
+  {
+    "turns": [
+      "What are some healthy dinner recipes?",
+      "I have chicken, spinach, and pasta. What can I make?",
+      "How do I cook the chicken to make sure it's tender?",
+      "Can you suggest a healthy side salad to pair with this?",
+      "Provide the step-by-step instructions and cooking times."
+    ]
+  },
+  {
+    "turns": [
+      "How does machine learning work?",
+      "What is the difference between supervised and unsupervised learning?",
+      "What is a decision tree classifier?",
+      "How do we prevent overfitting in decision trees?",
+      "Write a simple Python script using scikit-learn to train a Decision Tree on the Iris dataset."
+    ]
+  },
+  {
+    "turns": [
+      "Explain the concept of inflation in economics.",
+      "What causes hyperinflation?",
+      "How do central banks control inflation rates?",
+      "What is quantitative easing?",
+      "Provide a historical comparison between the inflation of Weimar Germany and Zimbabwe."
+    ]
+  },
+  {
+    "turns": [
+      "What are the rules of chess?",
+      "How does the knight move?",
+      "What is castling and what are the requirements for it?",
+      "What is the 'en passant' rule?",
+      "Suggest some common opening strategies for beginners."
+    ]
+  },
+  {
+    "turns": [
+      "How do solar panels generate electricity?",
+      "What is the photovoltaic effect?",
+      "What is the difference between monocrystalline and polycrystalline panels?",
+      "How does battery storage work in residential solar systems?",
+      "What are the environmental impacts of solar panel manufacturing?"
+    ]
+  },
+  {
+    "turns": [
+      "How can I improve my sleep quality?",
+      "What is sleep hygiene?",
+      "How does screen time before bed affect sleep?",
+      "What are some relaxation techniques I can try?",
+      "Create a daily routine schedule to optimize circadian rhythm."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss cooking. What are the basics?",
+      "Tell me more about recipes and meal prep.",
+      "How does kitchen tools relate to the overall concept of cooking?",
+      "What are the best practices when dealing with spices?",
+      "Provide a summary of baking and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss cooking. What are the basics?",
+      "Tell me more about kitchen tools and meal prep.",
+      "How does spices relate to the overall concept of cooking?",
+      "What are the best practices when dealing with baking?",
+      "Provide a summary of recipes and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss cooking. What are the basics?",
+      "Tell me more about kitchen tools and meal prep.",
+      "How does baking relate to the overall concept of cooking?",
+      "What are the best practices when dealing with spices?",
+      "Provide a summary of recipes and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss travel. What are the basics?",
+      "Tell me more about local food and destinations.",
+      "How does budget planning relate to the overall concept of travel?",
+      "What are the best practices when dealing with cultural norms?",
+      "Provide a summary of packing list and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss travel. What are the basics?",
+      "Tell me more about packing list and local food.",
+      "How does destinations relate to the overall concept of travel?",
+      "What are the best practices when dealing with cultural norms?",
+      "Provide a summary of budget planning and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss travel. What are the basics?",
+      "Tell me more about local food and budget planning.",
+      "How does destinations relate to the overall concept of travel?",
+      "What are the best practices when dealing with packing list?",
+      "Provide a summary of cultural norms and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss gardening. What are the basics?",
+      "Tell me more about pest control and harvesting.",
+      "How does fertilizers relate to the overall concept of gardening?",
+      "What are the best practices when dealing with soil prep?",
+      "Provide a summary of watering schedule and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss gardening. What are the basics?",
+      "Tell me more about fertilizers and soil prep.",
+      "How does harvesting relate to the overall concept of gardening?",
+      "What are the best practices when dealing with watering schedule?",
+      "Provide a summary of pest control and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss gardening. What are the basics?",
+      "Tell me more about watering schedule and harvesting.",
+      "How does soil prep relate to the overall concept of gardening?",
+      "What are the best practices when dealing with pest control?",
+      "Provide a summary of fertilizers and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss programming. What are the basics?",
+      "Tell me more about APIs and debugging.",
+      "How does unit testing relate to the overall concept of programming?",
+      "What are the best practices when dealing with git version control?",
+      "Provide a summary of databases and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss programming. What are the basics?",
+      "Tell me more about databases and unit testing.",
+      "How does git version control relate to the overall concept of programming?",
+      "What are the best practices when dealing with APIs?",
+      "Provide a summary of debugging and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss programming. What are the basics?",
+      "Tell me more about databases and git version control.",
+      "How does APIs relate to the overall concept of programming?",
+      "What are the best practices when dealing with unit testing?",
+      "Provide a summary of debugging and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss fitness. What are the basics?",
+      "Tell me more about recovery and cardio.",
+      "How does hydration relate to the overall concept of fitness?",
+      "What are the best practices when dealing with stretching?",
+      "Provide a summary of strength training and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss fitness. What are the basics?",
+      "Tell me more about hydration and stretching.",
+      "How does cardio relate to the overall concept of fitness?",
+      "What are the best practices when dealing with recovery?",
+      "Provide a summary of strength training and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss fitness. What are the basics?",
+      "Tell me more about cardio and hydration.",
+      "How does recovery relate to the overall concept of fitness?",
+      "What are the best practices when dealing with strength training?",
+      "Provide a summary of stretching and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss literature. What are the basics?",
+      "Tell me more about character development and themes.",
+      "How does writing style relate to the overall concept of literature?",
+      "What are the best practices when dealing with poetry analysis?",
+      "Provide a summary of classic novels and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss literature. What are the basics?",
+      "Tell me more about writing style and classic novels.",
+      "How does poetry analysis relate to the overall concept of literature?",
+      "What are the best practices when dealing with character development?",
+      "Provide a summary of themes and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss literature. What are the basics?",
+      "Tell me more about poetry analysis and themes.",
+      "How does writing style relate to the overall concept of literature?",
+      "What are the best practices when dealing with classic novels?",
+      "Provide a summary of character development and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss astronomy. What are the basics?",
+      "Tell me more about stars and planets.",
+      "How does space missions relate to the overall concept of astronomy?",
+      "What are the best practices when dealing with telescopes?",
+      "Provide a summary of galaxies and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss astronomy. What are the basics?",
+      "Tell me more about space missions and telescopes.",
+      "How does stars relate to the overall concept of astronomy?",
+      "What are the best practices when dealing with galaxies?",
+      "Provide a summary of planets and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss astronomy. What are the basics?",
+      "Tell me more about stars and space missions.",
+      "How does planets relate to the overall concept of astronomy?",
+      "What are the best practices when dealing with galaxies?",
+      "Provide a summary of telescopes and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss history. What are the basics?",
+      "Tell me more about industrial revolution and ancient civilizations.",
+      "How does world wars relate to the overall concept of history?",
+      "What are the best practices when dealing with biographies?",
+      "Provide a summary of famous inventions and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss history. What are the basics?",
+      "Tell me more about famous inventions and ancient civilizations.",
+      "How does world wars relate to the overall concept of history?",
+      "What are the best practices when dealing with biographies?",
+      "Provide a summary of industrial revolution and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss history. What are the basics?",
+      "Tell me more about ancient civilizations and famous inventions.",
+      "How does biographies relate to the overall concept of history?",
+      "What are the best practices when dealing with industrial revolution?",
+      "Provide a summary of world wars and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss finance. What are the basics?",
+      "Tell me more about taxes and investing.",
+      "How does budgeting relate to the overall concept of finance?",
+      "What are the best practices when dealing with credit scores?",
+      "Provide a summary of saving accounts and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss finance. What are the basics?",
+      "Tell me more about credit scores and taxes.",
+      "How does saving accounts relate to the overall concept of finance?",
+      "What are the best practices when dealing with budgeting?",
+      "Provide a summary of investing and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss finance. What are the basics?",
+      "Tell me more about budgeting and taxes.",
+      "How does credit scores relate to the overall concept of finance?",
+      "What are the best practices when dealing with investing?",
+      "Provide a summary of saving accounts and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss music. What are the basics?",
+      "Tell me more about songwriting and music theory.",
+      "How does instruments relate to the overall concept of music?",
+      "What are the best practices when dealing with famous composers?",
+      "Provide a summary of genres and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss music. What are the basics?",
+      "Tell me more about music theory and instruments.",
+      "How does songwriting relate to the overall concept of music?",
+      "What are the best practices when dealing with genres?",
+      "Provide a summary of famous composers and how they apply in real life."
+    ]
+  },
+  {
+    "turns": [
+      "Let's discuss music. What are the basics?",
+      "Tell me more about genres and music theory.",
+      "How does instruments relate to the overall concept of music?",
+      "What are the best practices when dealing with famous composers?",
+      "Provide a summary of songwriting and how they apply in real life."
+    ]
+  }
+]

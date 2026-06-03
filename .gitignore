@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+dist-info/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+Pipfile.lock
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.lnk
+.directory
+
+# Editor Backups
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Model Artifacts
+models/**/*.pkl
+models/**/*.joblib
+models/**/*.bin
+models/**/*.pt
+models/**/*.pth
+models/**/*.safetensors
+models/**/*.model
+models/**/*.pkl.gz
+models/**/*.pt.zip
+
+# Large Datasets
+data/generated/
+data/*.jsonl
+data/*.csv
+data/*.parquet
+
+# Evaluation Outputs
+evaluation/results/
+evaluation/*.csv
+evaluation/*.json
+
+# Ollama
+ollama.log
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# Coverage / Testing
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+coverage.xml
+.tox/
+.hypothesis/
+
+# Performance Profiling
+*.prof
+*.pstats
+
+# Git
+*.orig
+.git/
