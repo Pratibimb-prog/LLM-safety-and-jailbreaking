@@ -1,4 +1,4 @@
-# 🛡 LLM Jailbreak Defense — Crescendo Attack Pipeline
+# LLM Jailbreak Defense — Crescendo Attack Pipeline
 
 > **AIMS DTU Internship Submission**  
 > Multi-layer defense system for Llama 3.2 3B against multi-turn Crescendo jailbreak attacks.
