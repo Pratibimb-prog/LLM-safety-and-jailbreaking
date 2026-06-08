@@ -69,7 +69,7 @@ def evaluate_method(pipeline: DefensePipeline, conversations: list,
         try:
             result = pipeline.generate_response(history, method=method)
         except Exception as e:
-            print(f"    ⚠ Error on conversation {i}: {e}")
+            print(f" Error on conversation {i}: {e}")
             result = {
                 "response": "",
                 "risk_score": 0.0,
@@ -133,7 +133,7 @@ def run_benchmark(methods: list, attack_limit: int, safe_limit: int):
         metrics = compute_all_metrics(attack_results, safe_results)
         metrics_by_method[name] = metrics
 
-        print(f"\n  ✓ {name}")
+        print(f"\n  {name}")
         print(f"    ASR        : {metrics['asr']:.1f}%")
         print(f"    Refusal    : {metrics['refusal_rate']:.1f}%")
         print(f"    FPR        : {metrics['fpr']:.1f}%")
@@ -171,7 +171,6 @@ def main():
         attack_limit=args.attack_limit,
         safe_limit=args.safe_limit
     )
-
 
 if __name__ == "__main__":
     main()
